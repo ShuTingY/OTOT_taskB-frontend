@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/OTOT_taskB-frontend/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/OTOT_taskB-frontend/static/js/main.1274b6c7.chunk.js",
+    "main.js.map": "/OTOT_taskB-frontend/static/js/main.1274b6c7.chunk.js.map",
+    "runtime-main.js": "/OTOT_taskB-frontend/static/js/runtime-main.8f58ad24.js",
+    "runtime-main.js.map": "/OTOT_taskB-frontend/static/js/runtime-main.8f58ad24.js.map",
+    "static/css/2.16ce183e.chunk.css": "/OTOT_taskB-frontend/static/css/2.16ce183e.chunk.css",
+    "static/js/2.13684f87.chunk.js": "/OTOT_taskB-frontend/static/js/2.13684f87.chunk.js",
+    "static/js/2.13684f87.chunk.js.map": "/OTOT_taskB-frontend/static/js/2.13684f87.chunk.js.map",
+    "static/js/3.defe9c46.chunk.js": "/OTOT_taskB-frontend/static/js/3.defe9c46.chunk.js",
+    "static/js/3.defe9c46.chunk.js.map": "/OTOT_taskB-frontend/static/js/3.defe9c46.chunk.js.map",
+    "index.html": "/OTOT_taskB-frontend/index.html",
+    "static/css/2.16ce183e.chunk.css.map": "/OTOT_taskB-frontend/static/css/2.16ce183e.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/OTOT_taskB-frontend/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.13684f87.chunk.js.LICENSE.txt": "/OTOT_taskB-frontend/static/js/2.13684f87.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/OTOT_taskB-frontend/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f58ad24.js",
+    "static/css/2.16ce183e.chunk.css",
+    "static/js/2.13684f87.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1274b6c7.chunk.js"
+  ]
+}
