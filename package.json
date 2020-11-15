@@ -2,7 +2,7 @@
   "name": "web",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://taskb-frontend.herokuapp.com",
+  "homepage": "https://taskb-frontend.herokuapp.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -39,5 +39,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://6x34q4nhgb.execute-api.us-east-2.amazonaws.com/production/"
+  "proxy": "https://6x34q4nhgb.execute-api.us-east-2.amazonaws.com/production/",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
 }
