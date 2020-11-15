@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/OTOT_taskB-frontend/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/OTOT_taskB-frontend/static/js/main.1274b6c7.chunk.js",
-    "main.js.map": "/OTOT_taskB-frontend/static/js/main.1274b6c7.chunk.js.map",
+    "main.js": "/OTOT_taskB-frontend/static/js/main.c70aed50.chunk.js",
+    "main.js.map": "/OTOT_taskB-frontend/static/js/main.c70aed50.chunk.js.map",
     "runtime-main.js": "/OTOT_taskB-frontend/static/js/runtime-main.8f58ad24.js",
     "runtime-main.js.map": "/OTOT_taskB-frontend/static/js/runtime-main.8f58ad24.js.map",
     "static/css/2.16ce183e.chunk.css": "/OTOT_taskB-frontend/static/css/2.16ce183e.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.16ce183e.chunk.css",
     "static/js/2.13684f87.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.1274b6c7.chunk.js"
+    "static/js/main.c70aed50.chunk.js"
   ]
 }
